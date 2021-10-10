@@ -1,5 +1,6 @@
 package com.zavadski._1_Basics_of_software_code_development;
 
+//2. Вычислить значение выражения по формуле (все переменные принимают действительные значения):
 public class task102 {
     public static void main(String[] args) {
         int a = 4;
