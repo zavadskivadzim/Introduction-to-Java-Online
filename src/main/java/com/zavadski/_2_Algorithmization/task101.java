@@ -1,3 +1,4 @@
+package com.zavadski._2_Algorithmization;
 // В массив A [N] занесены натуральные числа.
 // Найти сумму тех элементов, которые кратны данному К.
 public class task101 {
